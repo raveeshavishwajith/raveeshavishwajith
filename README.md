@@ -2,8 +2,8 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width= 100px>
 </p>
 
-<div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=500&color=2CF71A&width=435&lines=Hi+there+I'm+Raveesha+Vishwajith%F0%9F%91%8B;Computer+Science+Student;Front-End+Developer;Back-End+Engineer;Problem+Solver;Freelancer" alt="Headline" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=500&center=true&width=800&color=2CF71A&lines=Hi+there+I'm+Raveesha+Vishwajith%F0%9F%91%8B;Computer+Science+Student;Front-End+Developer;Back-End+Engineer;Problem+Solver;Freelancer" alt="Headline" />
 </div>
 
 <p align="center">
